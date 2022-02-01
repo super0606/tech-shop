@@ -1,0 +1,1 @@
+per avviare un localhost, basta entrare nel cmd poi fare cd e il percorso della cartella e poi mettere questo: php -S localhost:8000
